@@ -1,11 +1,11 @@
 
 * {
-    background-color: #000000;
-    color: #ffffff;
     font-family: 'Lucida Grande', sans-serif;
 }
 
 body {
+    background-color: #000000;
+    color: #ffffff;
     font-family: 'Lucida Grande', sans-serif;
 }
 
@@ -49,11 +49,13 @@ div {
 #yellow {
     background-color: #ffff00;
     text-align: right;
-    text-shadow: 5px 5px 2px #c7e2c7;
     color: #000000;
 }
 
-#yellow > p {
+#yellow h2 {
+    text-shadow: 5px 5px 2px #c7e2c7;
+}
+#yellow p {
     color: #000000;
 }
 
@@ -66,5 +68,5 @@ footer p {
     text-align: right;
     padding-bottom: 10px;
     padding-right: 10px;
-    font-family: 'Lucida Grande', sans-serif;
+    font-family: 'Lucida Grande', sans-serif;;
 }
