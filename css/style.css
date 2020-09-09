@@ -1,8 +1,12 @@
 
-body {
+* {
     background-color: #000000;
     color: #ffffff;
-    font-family: 'Luicda Grande', sans-serif;
+    font-family: 'Lucida Grande', sans-serif;
+}
+
+body {
+    font-family: 'Lucida Grande', sans-serif;
 }
 
 h1 {
@@ -62,5 +66,5 @@ footer p {
     text-align: right;
     padding-bottom: 10px;
     padding-right: 10px;
-    font-family: 'Luicda Grande', sans-serif;;
+    font-family: 'Lucida Grande', sans-serif;;
 }
